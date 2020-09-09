@@ -7,7 +7,7 @@ const App = () => {
   return (
     <SignIn/>
   );
-};
+};//3 5 yorum satırı atak da keyfimiz yerine gelsin
 const styles = StyleSheet.create({
   
 });
